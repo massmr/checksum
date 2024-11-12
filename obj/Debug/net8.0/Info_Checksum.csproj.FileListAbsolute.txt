@@ -1,0 +1,15 @@
+/Users/massmr/Documents/studies/JUNIA/ADI2/S3/Info_Checksum/bin/Debug/net8.0/Info_Checksum
+/Users/massmr/Documents/studies/JUNIA/ADI2/S3/Info_Checksum/bin/Debug/net8.0/Info_Checksum.deps.json
+/Users/massmr/Documents/studies/JUNIA/ADI2/S3/Info_Checksum/bin/Debug/net8.0/Info_Checksum.runtimeconfig.json
+/Users/massmr/Documents/studies/JUNIA/ADI2/S3/Info_Checksum/bin/Debug/net8.0/Info_Checksum.dll
+/Users/massmr/Documents/studies/JUNIA/ADI2/S3/Info_Checksum/bin/Debug/net8.0/Info_Checksum.pdb
+/Users/massmr/Documents/studies/JUNIA/ADI2/S3/Info_Checksum/obj/Debug/net8.0/Info_Checksum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/massmr/Documents/studies/JUNIA/ADI2/S3/Info_Checksum/obj/Debug/net8.0/Info_Checksum.AssemblyInfoInputs.cache
+/Users/massmr/Documents/studies/JUNIA/ADI2/S3/Info_Checksum/obj/Debug/net8.0/Info_Checksum.AssemblyInfo.cs
+/Users/massmr/Documents/studies/JUNIA/ADI2/S3/Info_Checksum/obj/Debug/net8.0/Info_Checksum.csproj.CoreCompileInputs.cache
+/Users/massmr/Documents/studies/JUNIA/ADI2/S3/Info_Checksum/obj/Debug/net8.0/Info_Checksum.sourcelink.json
+/Users/massmr/Documents/studies/JUNIA/ADI2/S3/Info_Checksum/obj/Debug/net8.0/Info_Checksum.dll
+/Users/massmr/Documents/studies/JUNIA/ADI2/S3/Info_Checksum/obj/Debug/net8.0/refint/Info_Checksum.dll
+/Users/massmr/Documents/studies/JUNIA/ADI2/S3/Info_Checksum/obj/Debug/net8.0/Info_Checksum.pdb
+/Users/massmr/Documents/studies/JUNIA/ADI2/S3/Info_Checksum/obj/Debug/net8.0/Info_Checksum.genruntimeconfig.cache
+/Users/massmr/Documents/studies/JUNIA/ADI2/S3/Info_Checksum/obj/Debug/net8.0/ref/Info_Checksum.dll
