@@ -16,7 +16,7 @@ namespace Info_Checksum
       if (args.Length >= 1) 
       {
         Console.WriteLine("Checking card number...");
-        if (args[0].Length < 13 || args[0].Length > 19 || !Regex.IsMatch(args[0], @"^\d+$"))
+        if (args[0].Length < 13 || args[0].Length > 16 || !Regex.IsMatch(args[0], @"^\d+$"))
         {
           Console.WriteLine("Incorrect format");
           return;

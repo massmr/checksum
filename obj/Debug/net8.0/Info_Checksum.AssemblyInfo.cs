@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Info_Checksum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccf0fdc480d03099555fecdcf3d0a5a24d54bd6f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15b014d7b518cace433744da711f31a9c048a193")]
 [assembly: System.Reflection.AssemblyProductAttribute("Info_Checksum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Info_Checksum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
